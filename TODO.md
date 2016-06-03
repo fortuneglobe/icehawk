@@ -15,3 +15,7 @@
  |- Data
  `- Feedback
 ```
+
+* Submit IceHawk to ziadoz/awesome-php
+* Create fridge (IceHawk Generator PHAR)
+* Submit fridge to PhiVE
